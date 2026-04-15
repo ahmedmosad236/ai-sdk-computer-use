@@ -2,7 +2,12 @@ Author: Ahmed Mosaad Mohammed
 
 # AI Agent Dashboard
 
-A production-quality AI Agent Dashboard built on top of the [ai-sdk-computer-use](https://github.com/vercel-labs/ai-sdk-computer-use) demo.
+A production-quality AI Agent Dashboard built on top of the [ai-sdk-computer-use](https://github.com/vercel-labs/ai-sdk-computer-use) demo by Vercel.
+
+## 🔗 Links
+
+- **Live Demo:** https://ai-sdk-computer-use-lyart-sigma.vercel.app/
+- **Demo Video:** https://drive.google.com/file/d/1sbAhvuy78ZKSHVzCizBmUHn1najGfBwt/view?usp=sharing
 
 ## Features
 
